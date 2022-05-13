@@ -1,3 +1,12 @@
-*__pycache__
 *.ipynb_checkpoints/
 *.tfrecord
+dataset/
+results/
+__pycache__/
+*zip
+*.pyc
+*.pth
+tools/objdet_models/darknet/pretrained/
+tools/objdet_models/resnet/pretrained/
+experiments/*
+!*.config
